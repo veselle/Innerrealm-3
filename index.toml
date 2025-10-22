@@ -1410,6 +1410,11 @@ hash = "fc7bf6627c5588cb29e61bc5331931c920597678aa69fa56210201e694b72f73"
 metafile = true
 
 [[files]]
+file = "mods/the_below_bedrock_caves.pw.toml"
+hash = "25a69d3650a60cc97ca5c24a73d256bc3473d1cba020078a626b785d5794834e"
+metafile = true
+
+[[files]]
 file = "mods/thorny-bush-protection.pw.toml"
 hash = "ee27d722ab5876a439389e540095f7dc3ed576558d897dd5a520c5124103891a"
 metafile = true

@@ -1,0 +1,13 @@
+name = "The Below Bedrock Caves"
+filename = "below-bedrock-caves-1.2.0-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5j0yTYCf/versions/tiwsh40v/below-bedrock-caves-1.2.0-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "e2d1db28666be4723630e7f171ce15d0b7f36c730dfa55cdb16af281e41525402be23835866b0d2d1cc47d8e5f82ee5498c7d4793cf5b21b1cad8408de7927b2"
+
+[update]
+[update.modrinth]
+mod-id = "5j0yTYCf"
+version = "tiwsh40v"
