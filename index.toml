@@ -29,6 +29,10 @@ file = "config/slumber.properties"
 hash = "e8a6ba86c1653bc5f58b292e0db238ef0a9d67fbda2bb405371e13e008e37414"
 
 [[files]]
+file = "config/tide.toml"
+hash = "aa6a0421df68a9ae70c8997818b4c3ed5072e09e671c55993a6c3418e43fff2e"
+
+[[files]]
 file = "config/veinmining-server.toml"
 hash = "a3d5300679253ed889ec8aa0ef5ff868f817fc04e79f3705f4b80748f5c75101"
 
@@ -39,6 +43,10 @@ hash = "fcfc7480d2125482eda6a9a75b6d336a338f67855f485e883726dd4669ada4fb"
 [[files]]
 file = "datapacks/Survival_Islands.zip"
 hash = "11098c9b897b636116d27ccbb356e4d9b48ee290f22922ad8c2431f37b061c3f"
+
+[[files]]
+file = "datapacks/misc_fixes.zip"
+hash = "ba1c83d71069a2cc10d844b384caf5e48e3e7a99750eeff8d25f44e4161860dc"
 
 [[files]]
 file = "mods/2032-world-height.pw.toml"
