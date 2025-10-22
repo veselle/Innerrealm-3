@@ -1343,6 +1343,11 @@ hash = "b19fd9ac623c231329f11d68b6c80d1c0bfcd129d426a611e5123c5e7959d195"
 metafile = true
 
 [[files]]
+file = "mods/touhou-origins.pw.toml"
+hash = "a44088681aa09c008bf904a95d0715329ca087e390f9340336e2907d3e5388a9"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "df71b5d7427e9a508e9f298b5cdec84aa8c4fcb584beb0d16d86efb9d47b3bcd"
 metafile = true
