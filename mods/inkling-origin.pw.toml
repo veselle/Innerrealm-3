@@ -1,0 +1,13 @@
+name = "Inkling origin"
+filename = "Inkling origin 1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N12FwM7J/versions/wNglyYDe/Inkling%20origin%201.0.1.jar"
+hash-format = "sha512"
+hash = "4e7bfbbe3ee42b36f26eab55da427da9c9812398f23408f8757570ba40952c4b56c9abb7cbf5c5855f56d9c2f16f9e2de3b47653bac1944c0be89969fd70322f"
+
+[update]
+[update.modrinth]
+mod-id = "N12FwM7J"
+version = "wNglyYDe"

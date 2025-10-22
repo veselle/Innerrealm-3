@@ -1,0 +1,13 @@
+name = "Fire Arrows Ignite Fire"
+filename = "firearrows-fabric-1.20.1-13.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/NoajjpZQ/versions/cSxx0RVK/firearrows-fabric-1.20.1-13.3.jar"
+hash-format = "sha512"
+hash = "5c9fb2b54bb138c6f1ab862ce406d042a166ccee872f3fe55d09ec669abccc1b230f05a3ffdec00aa50e71e0a6a55ce2a15a0d04e17fc85a1b2bdbd6cf29634b"
+
+[update]
+[update.modrinth]
+mod-id = "NoajjpZQ"
+version = "cSxx0RVK"

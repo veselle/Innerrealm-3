@@ -1,0 +1,13 @@
+name = "McDiscordWebhook"
+filename = "mc-discord-webhook-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IddSRUgl/versions/q6ZZyJn4/mc-discord-webhook-1.2.0.jar"
+hash-format = "sha512"
+hash = "c908ca9459b9284f41a10767db0cf0bf10ca1b501032de0c1b640b10c2dbc474be906faa7e683eb388865e66b207efcd1912e8304051328166d5eed705e7b8f1"
+
+[update]
+[update.modrinth]
+mod-id = "IddSRUgl"
+version = "q6ZZyJn4"

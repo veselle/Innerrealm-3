@@ -1,0 +1,13 @@
+name = "Better Keepinventory"
+filename = "better_keepinventory-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O6cL85Vz/versions/uvKxVaNR/better_keepinventory-1.3.jar"
+hash-format = "sha512"
+hash = "69f784a088ae51d0e0ab670e96edfdaf94343cce22b6d30719b74bdf5fd76b523200ff54efd0a6083b5071ddf01f3de5e6bdec00a155914c1d0cbb6577645fca"
+
+[update]
+[update.modrinth]
+mod-id = "O6cL85Vz"
+version = "uvKxVaNR"

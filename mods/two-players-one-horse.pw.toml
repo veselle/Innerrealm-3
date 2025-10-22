@@ -1,0 +1,13 @@
+name = "Two Players One Horse"
+filename = "twoplayersonehorse-fabric-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c89BhsB1/versions/I7ZhnTo0/twoplayersonehorse-fabric-1.20.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "6ada7af2ecfd64ac5554d63cca423eccf68fa10d637b33f73e9f266dcced4b65cbbdb570711e1d790ba0a8c0528172797a924f66616d687de8c6ddb875b5cd3f"
+
+[update]
+[update.modrinth]
+mod-id = "c89BhsB1"
+version = "I7ZhnTo0"

@@ -1,0 +1,13 @@
+name = "Peaceful Nights"
+filename = "peaceful_nights-fabric-0.1.0+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wusZLXmN/versions/MquNbNjH/peaceful_nights-fabric-0.1.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "20519a2528bf3ad777a1ea2e960c709e8f0d8c33b2c5b54174c5b972f3808c97227251e94764ead7125ee25488eb6264bad6dbe2c444846b1622c5c2c30269ce"
+
+[update]
+[update.modrinth]
+mod-id = "wusZLXmN"
+version = "MquNbNjH"

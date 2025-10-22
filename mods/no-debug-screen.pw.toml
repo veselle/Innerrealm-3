@@ -1,0 +1,13 @@
+name = "No F3/Debug Screen"
+filename = "no-debug-screen-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3fSiff6F/versions/2GHTKkE1/no-debug-screen-1.0.5.jar"
+hash-format = "sha512"
+hash = "1d805fda0f364f21524134a68fcb1c4e2d308ebf7281fb01fa0ed5abbda80ddd82348740d13063ee67ee49c4b2f5c1bd7d8c894be70bca5c9d0f5f0111fd0137"
+
+[update]
+[update.modrinth]
+mod-id = "3fSiff6F"
+version = "2GHTKkE1"

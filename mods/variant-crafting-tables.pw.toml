@@ -1,0 +1,13 @@
+name = "Variant Crafting Tables"
+filename = "variantcraftingtables-6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ckH8gssX/versions/S7xb9dl1/variantcraftingtables-6.4.jar"
+hash-format = "sha512"
+hash = "322bff1e4a6799fe881382d1319b31ba91b23fdcb4bb17b358abe477ae56b4aa244f5661c7a43c2adcef472cdfda0ddb747560fd91aac6e2fc51cfb4d88215f3"
+
+[update]
+[update.modrinth]
+mod-id = "ckH8gssX"
+version = "S7xb9dl1"

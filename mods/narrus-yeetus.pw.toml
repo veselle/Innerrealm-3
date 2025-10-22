@@ -1,0 +1,13 @@
+name = "NarrusYeetus"
+filename = "NarrusYeetus-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xt7qZAZo/versions/iAdGUMCU/NarrusYeetus-1.2.0.jar"
+hash-format = "sha512"
+hash = "c6fd08c13973ffb0f1521b77c089b9f44b1acd34f3840e141dd7d281b4c1321a2e60d0f83dbaf833ae9da4d6be7372755f919e5d1cf30942b918576f60b84784"
+
+[update]
+[update.modrinth]
+mod-id = "Xt7qZAZo"
+version = "iAdGUMCU"

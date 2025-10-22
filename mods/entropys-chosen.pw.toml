@@ -1,0 +1,13 @@
+name = "Origins: Entropy's Chosen"
+filename = "entropys-chosen-3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hX5NTsZ7/versions/cAvFHJWe/entropys-chosen-3.5.jar"
+hash-format = "sha512"
+hash = "87554841b5b4990a7e7df2c358610ce1171c0852806e21f1b0110af05a82414439cff36b29c1d5df5b8e9a55d8acfb6ea6ae92e909f508fef0715039a1846095"
+
+[update]
+[update.modrinth]
+mod-id = "hX5NTsZ7"
+version = "cAvFHJWe"

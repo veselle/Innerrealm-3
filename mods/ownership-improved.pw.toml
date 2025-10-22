@@ -1,0 +1,13 @@
+name = "Ownership Improved"
+filename = "ownership-improved-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9HWjuuTb/versions/un3Flfdm/ownership-improved-1.jar"
+hash-format = "sha512"
+hash = "fb74572d8167c499d2120440bef584e78c410c18c1617db508a2b3c5c25893db8d5e5bd9dd2d9bd8ca7c3a9e5323b74d5744a38378470a5d822e84b209d00c1f"
+
+[update]
+[update.modrinth]
+mod-id = "9HWjuuTb"
+version = "un3Flfdm"

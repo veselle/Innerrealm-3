@@ -1,0 +1,13 @@
+name = "Spitting Image"
+filename = "spitting-image-5-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u2Hv8EcL/versions/8rhVQEA1/spitting-image-5-1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "b04354980ca15f167b29c7bcb9a12dc11ea985ac95219eaf763cf7cd05a4f7ef8d8aab77b4b88df4ac7dcd454587b1becfef8bc0bb056d5b872d6effe3da540d"
+
+[update]
+[update.modrinth]
+mod-id = "u2Hv8EcL"
+version = "8rhVQEA1"

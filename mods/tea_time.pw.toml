@@ -1,0 +1,13 @@
+name = "Teatime"
+filename = "teatime-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fs3zasz2/versions/WTnpNAhs/teatime-1.0.0.jar"
+hash-format = "sha512"
+hash = "d21f4e5ebaf9ea24e5f1bb0536adfa61ea466b6c172d2ea021ad5c296e48469b98027d3ac8da59ef64d5caf04bfc8c150e1131595aae1f319c0740c3d2624619"
+
+[update]
+[update.modrinth]
+mod-id = "fs3zasz2"
+version = "WTnpNAhs"

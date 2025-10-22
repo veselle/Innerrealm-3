@@ -1,0 +1,13 @@
+name = "Blazing Bamboo"
+filename = "BlazingBamboo-Fabric-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qeChSM8z/versions/UVCeAwd8/BlazingBamboo-Fabric-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "013b91682c2a324d736b6b0086421eb7c8acd281db1c698399634cbbacc1150e3c856f54d263f42b3759b5a6c2aff5e724bb3f80bf33d78f7a85ec1ee8f67cce"
+
+[update]
+[update.modrinth]
+mod-id = "qeChSM8z"
+version = "UVCeAwd8"

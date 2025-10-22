@@ -1,0 +1,13 @@
+name = "In Ink we Rise (Defile)"
+filename = "in_ink_we_rise-1.0.5-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gY2TAFaw/versions/xWB51NLs/in_ink_we_rise-1.0.5-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "2f1bec897f5042a35e1829d23a3edadcd49246955a65f983a71f2c931f9ede5e015b3b63e538e0d5960bff5e6f33ff488db422c8690cba38536956b986878077"
+
+[update]
+[update.modrinth]
+mod-id = "gY2TAFaw"
+version = "xWB51NLs"

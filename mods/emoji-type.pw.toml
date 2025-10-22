@@ -1,0 +1,13 @@
+name = "Emoji Type"
+filename = "emoji-type-2.2.3+1.20.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/q7vRRpxU/versions/SDBfBuH9/emoji-type-2.2.3%2B1.20.4-fabric.jar"
+hash-format = "sha512"
+hash = "d2cf06954419e683ed28132ff4060efa1cabdc942f9ad619ef7a74e15c2163d658eacc7f3463552674aa1860f069a111ccb9cd1970e14add1465e03124b1e32f"
+
+[update]
+[update.modrinth]
+mod-id = "q7vRRpxU"
+version = "SDBfBuH9"

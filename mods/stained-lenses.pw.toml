@@ -1,0 +1,13 @@
+name = "Stained Lenses"
+filename = "stained-lenses-0.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l7wpyDS7/versions/uZZt1spK/stained-lenses-0.7.0.jar"
+hash-format = "sha512"
+hash = "880ad07e5ef540d81ce4a1aa1416c4694d4875ffd5f1d7c348d0d7cd16194fdbbbf37e8809522e895857bd7e6c764d2088d40b2ca119cabee99ac74f5221603d"
+
+[update]
+[update.modrinth]
+mod-id = "l7wpyDS7"
+version = "uZZt1spK"

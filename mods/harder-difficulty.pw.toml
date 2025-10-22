@@ -1,0 +1,13 @@
+name = "Harder Difficulty"
+filename = "harder-difficulty-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N7d5UtZR/versions/2nXyYDEZ/harder-difficulty-1.2.1.jar"
+hash-format = "sha512"
+hash = "86a6d401db87b2ff20d5cf3f35144fc6d9a5b074b632a1c38510f1cfc9d37ea879f607a54bacc36cda259f6d5c445f17a96b95b87b9de20f9796967edb1eda9b"
+
+[update]
+[update.modrinth]
+mod-id = "N7d5UtZR"
+version = "2nXyYDEZ"

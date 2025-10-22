@@ -1,0 +1,13 @@
+name = "Origins: Sun Block"
+filename = "originssunblock-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XMJN6Ifu/versions/gO85Mmal/originssunblock-1.0.0.jar"
+hash-format = "sha512"
+hash = "5f54290c9786abdf8fe37a6aeb66cd0aa9c2f90a5b8a8b80ad79b6e6729eb004bd6a6754b1e5ed7342decb4402586503e3d3f39a01977d445cfe603c030e500b"
+
+[update]
+[update.modrinth]
+mod-id = "XMJN6Ifu"
+version = "gO85Mmal"

@@ -1,0 +1,13 @@
+name = "Distracting Trims"
+filename = "DistractingTrims-Fabric-1.20.1-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xQU6E1ee/versions/JhOKV9M3/DistractingTrims-Fabric-1.20.1-2.0.4.jar"
+hash-format = "sha512"
+hash = "eef68e69a349b9238bc3f8f2ebc9f5a4b71c15ae3f8b598c69654efa1ae98e0e442747c7f6081967d850cfef9965c501f0767ca19c6effc0f1deeb5e6bd438d5"
+
+[update]
+[update.modrinth]
+mod-id = "xQU6E1ee"
+version = "JhOKV9M3"

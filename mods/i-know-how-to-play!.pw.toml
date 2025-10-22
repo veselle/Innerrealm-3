@@ -1,0 +1,13 @@
+name = "I Know How To Play!"
+filename = "i-know-how-to-play-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bzsen4li/versions/vKC5UHBA/i-know-how-to-play-2.0.0.jar"
+hash-format = "sha512"
+hash = "7899074f6dc3dc9bc8a22a0c4a9cbc1c4f594a6f1671e1abd370e3e111dcd2e22d94e13e40c43b2dd1c717abbc04da887296b8db9a4ba487905d90b6b81a9432"
+
+[update]
+[update.modrinth]
+mod-id = "bzsen4li"
+version = "vKC5UHBA"

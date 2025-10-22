@@ -1,0 +1,13 @@
+name = "Origins: Mirrored one"
+filename = "origins-mirrored-one-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Et0iBnvL/versions/Bf0XiiWE/origins-mirrored-one-1.2.jar"
+hash-format = "sha512"
+hash = "4e7ddeb85fcca2e7d1338f1c113f8beea8539a6d6c2913f76f04ab1dbee1c04598f5d9f779acb413233634f769ff77f83df5091ea9a4bfb9766de3655f7ff5d5"
+
+[update]
+[update.modrinth]
+mod-id = "Et0iBnvL"
+version = "Bf0XiiWE"

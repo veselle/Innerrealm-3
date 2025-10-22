@@ -1,0 +1,13 @@
+name = "Murder Drones Origins"
+filename = "murder-drones-origins-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SFxskKtd/versions/5m9jn1AA/murder-drones-origins-2.2.1.jar"
+hash-format = "sha512"
+hash = "f232e140b7a7967996f78b83d87f9793b38df2b8d17381d288056fa42348278db4852a24b0336175d0a183a3825a20bec93e635735aabfe7293a0ff2525e6f56"
+
+[update]
+[update.modrinth]
+mod-id = "SFxskKtd"
+version = "5m9jn1AA"

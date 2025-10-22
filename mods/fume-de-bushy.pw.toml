@@ -1,0 +1,13 @@
+name = "Fumée de Bushy"
+filename = "fumee-de-bushy-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xjhbu8kn/versions/NJlLfHmj/fumee-de-bushy-1.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "568b15e4ea306ce4207bc781b0291c421020d7ba34acde15aea0e90ba3907f346d64ce9c071365706d485a509b545b369029842f0e7434aff921eaf67886d7a3"
+
+[update]
+[update.modrinth]
+mod-id = "Xjhbu8kn"
+version = "NJlLfHmj"

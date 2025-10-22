@@ -1,0 +1,13 @@
+name = "Enchant Anything"
+filename = "enchantanything-fabric-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N4QoriyX/versions/ddnETc5w/enchantanything-fabric-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "aa47981df2e70a3f1abe534743c92bc6bbc5056109b3f657d5cfb41495f53f2f878bfcd9398e44df85ea030703d156ca86cdb216e182cf19b6c701ace066647b"
+
+[update]
+[update.modrinth]
+mod-id = "N4QoriyX"
+version = "ddnETc5w"

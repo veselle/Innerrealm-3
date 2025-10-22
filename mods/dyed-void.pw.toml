@@ -1,0 +1,13 @@
+name = "The Dyed Void"
+filename = "dyedvoid-1.0.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZCm5FNNU/versions/PdB7DjSw/dyedvoid-1.0.1%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "765a3ec12bacbb9843548201d273aec740b491907d79aa400cf953bb83f57f00ed3accdb02867d887dc0620128d4e94219a9e8d1edfcbc6065148ad9391ab13d"
+
+[update]
+[update.modrinth]
+mod-id = "ZCm5FNNU"
+version = "PdB7DjSw"
