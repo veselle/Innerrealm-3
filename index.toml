@@ -82,7 +82,7 @@ hash = "4f17a39689777e76b2e536c61bc643c182250a425105126bd2521a2212108c78"
 
 [[files]]
 file = "datapacks/misc_fixes.zip"
-hash = "ba1c83d71069a2cc10d844b384caf5e48e3e7a99750eeff8d25f44e4161860dc"
+hash = "ebce2ac1ed2a51b47fb3ca4ee3856f95362b4167ebfe4b829fd460a9066ed474"
 
 [[files]]
 file = "datapacks/purpurpack_blasting_smelts_glass_1.2.zip"
@@ -458,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "bfb028fd36202682afedc9bbd2b794d9e5fc2f3967474b04904a79be3b7c36c4"
+metafile = true
+
+[[files]]
+file = "mods/datapackportals.pw.toml"
+hash = "58a1cfc732ab3179bfd6f2562b39520618c28a8ea6d79fc9b17759bc7514e1e9"
 metafile = true
 
 [[files]]
