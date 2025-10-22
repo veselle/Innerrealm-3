@@ -45,8 +45,16 @@ file = "datapacks/Survival_Islands.zip"
 hash = "11098c9b897b636116d27ccbb356e4d9b48ee290f22922ad8c2431f37b061c3f"
 
 [[files]]
+file = "datapacks/darkprincev34.zip"
+hash = "4f17a39689777e76b2e536c61bc643c182250a425105126bd2521a2212108c78"
+
+[[files]]
 file = "datapacks/misc_fixes.zip"
 hash = "ba1c83d71069a2cc10d844b384caf5e48e3e7a99750eeff8d25f44e4161860dc"
+
+[[files]]
+file = "datapacks/spirit.zip"
+hash = "1b1f8aea804ab9864c5753f8775bf73210360331506c2aa318324fd3407b7b77"
 
 [[files]]
 file = "mods/2032-world-height.pw.toml"
