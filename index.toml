@@ -41,8 +41,40 @@ file = "config/watut-client.toml"
 hash = "fcfc7480d2125482eda6a9a75b6d336a338f67855f485e883726dd4669ada4fb"
 
 [[files]]
+file = "datapacks/BrutesDropScraps-1.1.zip"
+hash = "fdd097fab4a0be3ee677f16e41891258d0c598c50379d30d0b7c3e4ec13abc94"
+
+[[files]]
+file = "datapacks/PK_No_Creeper_Grief_V.2.0.3_MC_1.20_to_1.20.1.zip"
+hash = "1078a8fb3d33b2234ad7b217bd8f519824cfc754d7057230f2ae143e1e53e148"
+
+[[files]]
 file = "datapacks/Survival_Islands.zip"
 hash = "11098c9b897b636116d27ccbb356e4d9b48ee290f22922ad8c2431f37b061c3f"
+
+[[files]]
+file = "datapacks/VanillaTweaks_c652959_MC1.20-1.20.6.zip"
+hash = "8bb0e5bd283b6fc959a6c73a894480edbf0220f471ec7ab5c6e7f0dacce7e4d9"
+
+[[files]]
+file = "datapacks/anti enderman grief v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "b637f7394e4e4931194e1b6872ffb5486f7ae8854c61b492468452c26b91ff91"
+
+[[files]]
+file = "datapacks/anti ghast grief v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "c4304d73cbbfb7aafd84bd8a2d01b305e81c34205b591e06495d2bd500709cd0"
+
+[[files]]
+file = "datapacks/bat membranes v1.0.9 (MC 1.20-1.20.6).zip"
+hash = "db8d2ce49948ba542b7ff3435a6c2c9741ad9c513a4e9e4144807fd866086c40"
+
+[[files]]
+file = "datapacks/budding-amethyst.zip"
+hash = "90fd6f2d49b48dfa6c32fb085e347b6456ffa0b9b4f5fe68fd94fa1f3ff26bf2"
+
+[[files]]
+file = "datapacks/cauldron concrete v3.0.0 (MC 1.20-1.20.6).zip"
+hash = "19fa12aa309f1e50a08d441fb4e0c0204b500fcb0eab51233531e69ff599f575"
 
 [[files]]
 file = "datapacks/darkprincev34.zip"
@@ -51,6 +83,78 @@ hash = "4f17a39689777e76b2e536c61bc643c182250a425105126bd2521a2212108c78"
 [[files]]
 file = "datapacks/misc_fixes.zip"
 hash = "ba1c83d71069a2cc10d844b384caf5e48e3e7a99750eeff8d25f44e4161860dc"
+
+[[files]]
+file = "datapacks/purpurpack_blasting_smelts_glass_1.2.zip"
+hash = "21b9d69fa364a57c1f580a4a9b6a2d1064feb46548b33df62d9d6b34752f5852"
+
+[[files]]
+file = "datapacks/purpurpack_breed_axolotl_with_tropical_fish_item_1.2.zip"
+hash = "c1b329b05c861fc41626b6a9717c50bf5f48912756dcd01fd31b6abc8aa5cdf0"
+
+[[files]]
+file = "datapacks/purpurpack_chiseled_bookshelves_add_enchantment_power_1.5.zip"
+hash = "fa12abc7574cf6c936a42e95e3f056a7f13fc2aa16f11b4c58500fccc1475c4f"
+
+[[files]]
+file = "datapacks/purpurpack_iron_to_diamond_armor_upgrades_1.3.zip"
+hash = "5f76e6171d9274086110946f6e9a7b383c5b55088f6fb6e9d0d8886462b1b4d5"
+
+[[files]]
+file = "datapacks/purpurpack_iron_to_diamond_tools_upgrade_1.3.zip"
+hash = "f554a19a17a7f0aa00eaea98cc7116b6495d93a8f98b6852511166f4a1d6b133"
+
+[[files]]
+file = "datapacks/purpurpack_more_dyed_wool_and_carpet_2.3.zip"
+hash = "b26aa06a2569c9f6f74488f4ae973532bee3d790a1a8ef6f4f176e73259252b0"
+
+[[files]]
+file = "datapacks/purpurpack_one_step_dyed_shulker_boxes_1.3.zip"
+hash = "cc2fab6f8ee7de33e0b2c7624eebb555888c8bf23ae4560d823e8cbbfee2a339"
+
+[[files]]
+file = "datapacks/purpurpack_pickaxe_effective_reinforced_deepslate_1.4.zip"
+hash = "4cb68270d14b3773f870290f346b6db3038fe9e7a174231ebe6d5bfa34f56069"
+
+[[files]]
+file = "datapacks/purpurpack_placeable_new_paintings_1.4.zip"
+hash = "438001eb3771397c834de61005fbe87a4a1a5f108c4d3c92411f4fb46bc78677"
+
+[[files]]
+file = "datapacks/purpurpack_re_dye_concrete_powder_1.3.zip"
+hash = "ad09f18ead5a57186e80f02983cc4c3d4be5427ad26dae979214bd8408633df1"
+
+[[files]]
+file = "datapacks/purpurpack_re_dye_glass_1.3.zip"
+hash = "d10f95e37ef41ebc8eb40c29db113b894bdec8499c55ddf2fac8cde3cb277c77"
+
+[[files]]
+file = "datapacks/purpurpack_re_dye_terracotta_1.3.zip"
+hash = "027da7dfd2d3c77046d042e00dd7d51b60688e0b60f095127177f12f6cc9b709"
+
+[[files]]
+file = "datapacks/purpurpack_silk_touch_budding_amethyst_1.3_modded.zip"
+hash = "883ffec601b5633b103caafd61908326bc5b1e2fe7c5a9efa5de20a20f7e991c"
+
+[[files]]
+file = "datapacks/purpurpack_silk_touch_reinforced_deepslate_1.3.zip"
+hash = "66c8382fdd71a04ba7db110919fd5d61f988fd9ed1f5ae4a348ee68324223db4"
+
+[[files]]
+file = "datapacks/purpurpack_smelt_raw_ore_blocks_1.3.zip"
+hash = "2ea85a23b8ec13185afdd6194503eeadaf0778fe97cce2b7c27fec1ee8d91be3"
+
+[[files]]
+file = "datapacks/purpurpack_stone_to_iron_tools_upgrades_1.3.zip"
+hash = "c76246744320ab9b2140a5ed03ee57fc432a07bf926f0d85c382b2ef8842cc3f"
+
+[[files]]
+file = "datapacks/purpurpack_transparent_blocks_in_enchant_area_1.3.zip"
+hash = "197483cb4c8de62ca544ef9fc2700a022718c170c3226d1afe187bf4a1ac5ebe"
+
+[[files]]
+file = "datapacks/purpurpack_wooden_to_stone_tools_upgrades_1.3.zip"
+hash = "11d383e9d7d3542839c78a6a8b63ac27838b28bd44a2d90a479a8128150ea683"
 
 [[files]]
 file = "datapacks/spirit.zip"
