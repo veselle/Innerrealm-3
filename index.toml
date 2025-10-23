@@ -416,6 +416,11 @@ hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "195105e5e989cd109d5f644b58eca2e06f9d487d80ea365fa42033675aac7ac7"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "f7eb366b393de915c9307285ddefa6bfd1f8346c0be9de9e1fad30e33d5cbfec"
 metafile = true
@@ -448,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "e4a437ed5c3f631fd4787e6ad4d61295654aba9d07528a5b692b8e917221ea0d"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "f9f2ae8ea6efec0e5509588b038c87add6dff2487481fdc569830936b932cb37"
 metafile = true
 
 [[files]]
@@ -817,6 +827,16 @@ metafile = true
 [[files]]
 file = "mods/inkling-origin.pw.toml"
 hash = "e650b70e4dbfc9fce408caf1494d38650947337b1bcafc1286d355fe0906382a"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "e01ce5532a51c50aa999585b102a58930aebf8e3d3e56addbb0e8e464a992a10"
+metafile = true
+
+[[files]]
+file = "mods/inmisaddon.pw.toml"
+hash = "dad3ea3c6c5fbfde3dbef7b1dd120c255c23b96e685479bc363b667eb5cba581"
 metafile = true
 
 [[files]]
