@@ -1235,6 +1235,11 @@ hash = "8fe7a1882593ac153622e5c2bdf8133157f5638040bf10ea3dc9ffcf2ec1930a"
 metafile = true
 
 [[files]]
+file = "mods/paucal.pw.toml"
+hash = "49ef3ff0a74c6338f2160c4ee683ae34f745a38c0c87f2d7527e4f88406113fe"
+metafile = true
+
+[[files]]
 file = "mods/peaceful-nights.pw.toml"
 hash = "bddf938cedc53fe9a236b7154d4f8c6747d592e92941fec6a7b6bd3fc86e5264"
 metafile = true
