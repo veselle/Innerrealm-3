@@ -201,6 +201,11 @@ hash = "1ba6c0a621ef7ca001fe2a7c7c2322f1f7a4b2c93f3a5adc3b548097f8d366de"
 metafile = true
 
 [[files]]
+file = "mods/apocalypse-origins.pw.toml"
+hash = "063bd7a01b8e85619c8e26818a581deea9b21f0c59d485793bbe6a0c66768984"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
