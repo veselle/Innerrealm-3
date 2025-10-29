@@ -82,7 +82,7 @@ hash = "47af3b929d792ba1e4f187da341bbe7b77015a14f76aae57f549c914cbc8a7a6"
 
 [[files]]
 file = "datapacks/misc_fixes.zip"
-hash = "029277293a49909306aa12d2f9f04620b7b3ec3e85f0f7733429d2ce8103bc62"
+hash = "a31c66adaa5d2187f8f1ce9450bb2e8c61a91af759ec23c92e926787f79179e1"
 
 [[files]]
 file = "datapacks/purpurpack_blasting_smelts_glass_1.2.zip"
@@ -283,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "47237935ab1dbb9fd99f831bdb3d6773ae8c7d3aa00bab06501c6cbd6fcfa5d4"
+metafile = true
+
+[[files]]
+file = "mods/blanket.pw.toml"
+hash = "204a6e607eabf19083f9a4f99e7bc33ff9df95d8c77deaba58f67a6a19f8c811"
 metafile = true
 
 [[files]]
@@ -765,6 +770,11 @@ hash = "08acf6b33a131900681d8af2efa54749c6bba6f8ce2f241e9ee5c17d65c20277"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "58ace6ddc01192bd96668e2a833568083f34b0808645e056c0f1e0716f63abe5"
 metafile = true
@@ -912,6 +922,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
 hash = "452c6f62f9601c728cef3575bf537a83661ccfcbaeceb59542a0cd0d0d2d6426"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
+hash = "1fa46cc140a1e1f028fdb0a1717022a701b4558b87c6c0506c7c82a9b80e9e1e"
 metafile = true
 
 [[files]]
