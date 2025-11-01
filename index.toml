@@ -45,6 +45,10 @@ file = "datapacks/BrutesDropScraps-1.1.zip"
 hash = "fdd097fab4a0be3ee677f16e41891258d0c598c50379d30d0b7c3e4ec13abc94"
 
 [[files]]
+file = "datapacks/Fragment of Sculk.zip"
+hash = "7e156ac88a4e4912ea219c34d2da34de074f0afb1ea3dd4070dfda9ea9546f41"
+
+[[files]]
 file = "datapacks/PK_No_Creeper_Grief_V.2.0.3_MC_1.20_to_1.20.1.zip"
 hash = "1078a8fb3d33b2234ad7b217bd8f519824cfc754d7057230f2ae143e1e53e148"
 
@@ -243,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "545fefbb036d68fb42cd96a077d42461abbf935cb71a096cee9454fba4030339"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "2b153d649184fcf793de475b3b3beaf238f7b558226ffc57896096a7ddcd99ad"
 metafile = true
 
 [[files]]
@@ -502,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "014cf6e6912ff9476c0ae25b92b2c61aa71c5f780ec670b43e3b30602620bde3"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "3a4784251cc45ad036649ac77f6d2218d458517d8cd495d4f3de931e36ad51b4"
 metafile = true
 
 [[files]]
@@ -1627,6 +1641,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "312b96136ffa671d90e78731122430808dfc8606b47bf2e0ce0567206a49b58c"
 metafile = true
 
 [[files]]
